@@ -1,0 +1,13 @@
+#refresh-dog-pic {
+    text-align: center;
+    margin: 2%;
+    border: 1px solid black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
